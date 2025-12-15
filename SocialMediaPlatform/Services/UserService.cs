@@ -6,26 +6,32 @@ namespace SocialMediaPlatform.Services
 {
     public class UserService : IUserService
     {
+        private DbContext _dbContext;
+        public UserService(DbContext db)
+        {
+            _dbContext = db;    
+        }
         public User Create(User user)
         {
+            _dbContext.Users.Add(user);
             return user;
         }
 
         public bool Delete(int id)
         {
             User deletedUser = GetUserById(id); 
-            return DbContext.Users.Remove(deletedUser);
+            return _dbContext.Users.Remove(deletedUser);
         }
         
 
         public User GetUserById(int id)
         {
-            return DbContext.Users.FirstOrDefault(user => user.Id == id);
+            return _dbContext.Users.FirstOrDefault(user => user.Id == id);
         }
 
         public List<User> GetUsers()
         {
-            return DbContext.Users;
+            return _dbContext.Users;
         }
 
         public User UpdateUsers(int id, User user)

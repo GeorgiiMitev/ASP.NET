@@ -4,7 +4,7 @@ namespace SocialMediaPlatform.Data
 {
     public class DbContext
     {
-        public static List<User> Users { get; set; } = new List<User>()
+        public List<User> Users { get; set; } = new List<User>()
         {
             new User()
             {

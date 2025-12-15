@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj": {}
+    "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj": {}
   },
   "projects": {
-    "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj": {
+    "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj",
+        "projectUniqueName": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj",
         "projectName": "SocialMediaPlatform",
-        "projectPath": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj",
+        "projectPath": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\SocialMediaPlatform.csproj",
         "packagesPath": "C:\\Users\\fmi\\.nuget\\packages\\",
         "outputPath": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\obj\\",
         "projectStyle": "PackageReference",

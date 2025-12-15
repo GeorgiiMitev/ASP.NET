@@ -1,4 +1,5 @@
 
+using SocialMediaPlatform.Data;
 using SocialMediaPlatform.Services;
 
 namespace SocialMediaPlatform
@@ -13,6 +14,7 @@ namespace SocialMediaPlatform
 
             builder.Services.AddControllers();
             builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddSingleton<DbContext, DbContext>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

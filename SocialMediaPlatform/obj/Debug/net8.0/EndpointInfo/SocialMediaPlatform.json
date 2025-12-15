@@ -44,22 +44,12 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/api/Users/{name}": {
+      },
       "put": {
         "tags": [
           "Users"
         ],
         "parameters": [
-          {
-            "name": "name",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          },
           {
             "name": "id",
             "in": "query",
