@@ -1,6 +1,12 @@
 
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using SocialMediaPlatform.Data;
-using SocialMediaPlatform.Services;
+using SocialMediaPlatform.Models;
+using System.Text;
 
 namespace SocialMediaPlatform
 {
@@ -10,11 +16,39 @@ namespace SocialMediaPlatform
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            //add authentication service
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options => {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                        ValidAudience = builder.Configuration["Jwt:Audience"],
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]!))
+                    }; 
+                });
 
+            
+            builder.Services.AddAuthorization();
+
+            // Add repo to the container.
+
+
+            //start of validator
+
+            builder.Services.AddFluentValidationAutoValidation();
+            // end of validator
             builder.Services.AddControllers();
-            builder.Services.AddScoped<IUserService, UserService>();
-            builder.Services.AddSingleton<DbContext, DbContext>();
+           
+
+            //Db Connection string setup
+            builder.Services.AddDbContext<AppDbContext>
+                (options => options.UseSqlServer(
+                    builder.Configuration.GetConnectionString("SocialMediaPlatform")
+                ));
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -28,8 +62,9 @@ namespace SocialMediaPlatform
                 app.UseSwaggerUI();
             }
 
+            app.UseAuthentication();
             app.UseAuthorization();
-
+            
 
             app.MapControllers();
 
