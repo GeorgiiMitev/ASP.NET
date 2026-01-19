@@ -5,12 +5,11 @@
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
 
-        //One to many
+        // Foreign Key for User: One-to-One
         public int UserId { get; set; }
         public User User { get; set; } = null!;
 
-        //One to many
-
+        // Collection Navigation: One-to-Many
         public ICollection<Post> Posts { get; set; } = new List<Post>();
     }
 }

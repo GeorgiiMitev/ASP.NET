@@ -26,6 +26,7 @@ D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.development.json
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMe.DB149497.Up2Date
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.dll
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\refint\SocialMediaPlatform.dll
@@ -44,120 +45,306 @@ D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.dll
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Azure.Core.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Azure.Identity.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Identity.Client.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.ClientModel.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Drawing.Common.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Memory.Data.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Runtime.Caching.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Windows.Extensions.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Humanizer.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Mono.TextTemplating.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.CodeDom.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Convention.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Hosting.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Runtime.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.TypedParts.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Downloads\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.AssemblyReference.cache
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.GeneratedMSBuildEditorConfig.editorconfig
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfoInputs.cache
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfo.cs
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.CoreCompileInputs.cache
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cs
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cache
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.dll
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\refint\SocialMediaPlatform.dll
-D:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.pdb
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\appsettings.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.staticwebassets.endpoints.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.exe
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.deps.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.runtimeconfig.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.pdb
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Humanizer.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.AssemblyReference.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfoInputs.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfo.cs
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.CoreCompileInputs.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\scopedcss\bundle\SocialMediaPlatform.styles.css
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMe.DB149497.Up2Date
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\refint\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.pdb
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.genruntimeconfig.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\ref\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.staticwebassets.endpoints.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\appsettings.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.exe
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.deps.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.runtimeconfig.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.pdb
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Humanizer.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.AssemblyReference.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfoInputs.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfo.cs
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.CoreCompileInputs.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\scopedcss\bundle\SocialMediaPlatform.styles.css
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMe.DB149497.Up2Date
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\refint\SocialMediaPlatform.dll
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.pdb
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.genruntimeconfig.cache
+C:\Users\bozhidar.DESKTOP-U5CUGNP\Desktop\SocialMediaPlatform - Copy\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\ref\SocialMediaPlatform.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\appsettings.Development.json
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\appsettings.json
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\SocialMediaPlatform.staticwebassets.endpoints.json
@@ -172,6 +359,7 @@ d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Fl
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Humanizer.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -201,6 +389,7 @@ d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Mi
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.OpenApi.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Mono.TextTemplating.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -213,10 +402,13 @@ d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Sy
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.Runtime.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Composition.TypedParts.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Drawing.Common.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Memory.Data.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Runtime.Caching.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Security.Permissions.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Windows.Extensions.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -275,7 +467,20 @@ d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rpswa.dswa.cache.json
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.AssemblyInfo.cs
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cs
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.MvcApplicationPartsAssemblyInfo.cache
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjimswa.dswa.cache.json
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -285,124 +490,9 @@ d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\st
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.development.json
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMe.DB149497.Up2Date
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\refint\SocialMediaPlatform.dll
+d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.pdb
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\SocialMediaPlatform.genruntimeconfig.cache
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\ref\SocialMediaPlatform.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Build.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.Build.Framework.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Newtonsoft.Json.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.Common.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.Configuration.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.Frameworks.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.LibraryModel.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.Packaging.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.ProjectModel.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.Protocol.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\NuGet.Versioning.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\af\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ar\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\az\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\bg\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\da\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\el\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fa\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\he\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\hr\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\hu\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\hy\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\id\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\is\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ku\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\lv\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\mt\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\nb\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\nl\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ro\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\sk\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\sl\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\sr\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\sv\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\uk\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\vi\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-d:\users\fmi\Desktop\SocialMediaPlatform\SocialMediaPlatform\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

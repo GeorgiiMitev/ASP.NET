@@ -1,27 +1,7 @@
 [
   {
     "ContainingType": "SocialMediaPlatform.Controllers.BlogsController",
-    "Method": "GetBlogs",
-    "RelativePath": "api/Blogs",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.ICollection\u00601[[SocialMediaPlatform.Dtos.BlogReadListDto, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.BlogsController",
-    "Method": "PostBlog",
+    "Method": "CreateBlog",
     "RelativePath": "api/Blogs",
     "HttpMethod": "POST",
     "IsController": true,
@@ -33,9 +13,30 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocialMediaPlatform.Controllers.BlogsController",
+    "Method": "GetAllBlog",
+    "RelativePath": "api/Blogs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": [
       {
-        "Type": "SocialMediaPlatform.Models.Blog",
+        "Type": "System.Collections.Generic.List\u00601[[SocialMediaPlatform.Dtos.BlogReadDto, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -72,37 +73,58 @@
     ]
   },
   {
-    "ContainingType": "SocialMediaPlatform.Controllers.BlogsController",
-    "Method": "PutBlog",
-    "RelativePath": "api/Blogs/{id}",
-    "HttpMethod": "PUT",
+    "ContainingType": "SocialMediaPlatform.Controllers.CommentsController",
+    "Method": "Create",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "blog",
-        "Type": "SocialMediaPlatform.Models.Blog",
+        "Name": "dto",
+        "Type": "SocialMediaPlatform.Dtos.CommentCreateDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "SocialMediaPlatform.Controllers.BlogsController",
-    "Method": "DeleteBlog",
-    "RelativePath": "api/Blogs/{id}",
-    "HttpMethod": "DELETE",
+    "ContainingType": "SocialMediaPlatform.Controllers.CommentsController",
+    "Method": "GetByPost",
+    "RelativePath": "api/Comments/post/{postId}",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
+        "Name": "postId",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Dtos.CommentReadDto, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SocialMediaPlatform.Controllers.PostsController",
+    "Method": "CreatePost",
+    "RelativePath": "api/Posts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SocialMediaPlatform.Dtos.PostCreateDto",
         "IsRequired": true
       }
     ],
@@ -118,7 +140,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Models.Post, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Dtos.PostReadDto, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -127,79 +149,6 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.PostsController",
-    "Method": "PostPost",
-    "RelativePath": "api/Posts",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "post",
-        "Type": "SocialMediaPlatform.Models.Post",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "SocialMediaPlatform.Models.Post",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.PostsController",
-    "Method": "GetPost",
-    "RelativePath": "api/Posts/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "SocialMediaPlatform.Models.Post",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.PostsController",
-    "Method": "PutPost",
-    "RelativePath": "api/Posts/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "post",
-        "Type": "SocialMediaPlatform.Models.Post",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   },
   {
     "ContainingType": "SocialMediaPlatform.Controllers.PostsController",
@@ -219,7 +168,7 @@
   },
   {
     "ContainingType": "SocialMediaPlatform.Controllers.TagsController",
-    "Method": "GetTag",
+    "Method": "GetTags",
     "RelativePath": "api/Tags",
     "HttpMethod": "GET",
     "IsController": true,
@@ -227,7 +176,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Models.Tag, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Dtos.TagReadDto, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -239,21 +188,21 @@
   },
   {
     "ContainingType": "SocialMediaPlatform.Controllers.TagsController",
-    "Method": "PostTag",
+    "Method": "CreateTag",
     "RelativePath": "api/Tags",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "tag",
-        "Type": "SocialMediaPlatform.Models.Tag",
+        "Name": "dto",
+        "Type": "SocialMediaPlatform.Dtos.TagCreateDto",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "SocialMediaPlatform.Models.Tag",
+        "Type": "SocialMediaPlatform.Dtos.TagReadDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -262,69 +211,6 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.TagsController",
-    "Method": "GetTag",
-    "RelativePath": "api/Tags/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "SocialMediaPlatform.Models.Tag",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.TagsController",
-    "Method": "PutTag",
-    "RelativePath": "api/Tags/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "tag",
-        "Type": "SocialMediaPlatform.Models.Tag",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.TagsController",
-    "Method": "DeleteTag",
-    "RelativePath": "api/Tags/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
   },
   {
     "ContainingType": "SocialMediaPlatform.Controllers.UsersController",
@@ -336,7 +222,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Models.User, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SocialMediaPlatform.Dtos.UserReadDto, SocialMediaPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -348,7 +234,7 @@
   },
   {
     "ContainingType": "SocialMediaPlatform.Controllers.UsersController",
-    "Method": "PostUser",
+    "Method": "CreateUser",
     "RelativePath": "api/Users",
     "HttpMethod": "POST",
     "IsController": true,
@@ -357,32 +243,6 @@
       {
         "Name": "dto",
         "Type": "SocialMediaPlatform.Dtos.UserCreateDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "SocialMediaPlatform.Models.User",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.UsersController",
-    "Method": "GetUser",
-    "RelativePath": "api/Users/{id}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
         "IsRequired": true
       }
     ],
@@ -400,65 +260,18 @@
   },
   {
     "ContainingType": "SocialMediaPlatform.Controllers.UsersController",
-    "Method": "PutUser",
-    "RelativePath": "api/Users/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "user",
-        "Type": "SocialMediaPlatform.Models.User",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.UsersController",
-    "Method": "DeleteUser",
-    "RelativePath": "api/Users/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SocialMediaPlatform.Controllers.UsersController",
     "Method": "Login",
-    "RelativePath": "api/Users/Login",
+    "RelativePath": "api/Users/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "dto",
+        "Name": "login",
         "Type": "SocialMediaPlatform.Dtos.UserCreateDto",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "SocialMediaPlatform.Models.User",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

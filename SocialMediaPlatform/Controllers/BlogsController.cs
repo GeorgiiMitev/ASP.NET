@@ -1,118 +1,88 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SocialMediaPlatform.Data;
 using SocialMediaPlatform.Dtos;
 using SocialMediaPlatform.Models;
+using System.Linq;
 
 namespace SocialMediaPlatform.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
-    public class BlogsController : ControllerBase
+    [Route("api/[controller]")]
+    public class BlogsController(AppDbContext _context) : ControllerBase
     {
-        private readonly AppDbContext _context;
 
-        public BlogsController(AppDbContext context)
-        {
-            _context = context;
-        }
-
-        // GET: api/Blogs
-        [HttpGet]
-        public async Task<ActionResult<ICollection<BlogReadListDto>>> GetBlogs()
-        {
-            return await _context.Blogs.Select(b => new BlogReadListDto(
-                b.Id,
-                b.Name,
-                new UserReadDto(b.User.Id, b.User.Name, b.Name)
-                )).ToListAsync();
-        }
-
-        // GET: api/Blogs/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<BlogReadDto>> GetBlog(int id)
-        {
-            var blog = await _context.Blogs.FindAsync(id);
-
-            if (blog == null)
-            {
-                return NotFound();
-            }
-
-            return new BlogReadDto(blog.Id, blog.Name, blog.UserId);
-        }
-
-        // PUT: api/Blogs/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutBlog(int id, Blog blog)
-        {
-            if (id != blog.Id)
-            {
-                return BadRequest();
-            }
-
-            _context.Entry(blog).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!BlogExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
-
-        // POST: api/Blogs
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [Authorize(Roles = "Admin")]
         [HttpPost]
-        public async Task<ActionResult<Blog>> PostBlog(BlogCreateDto dto)
+        public async Task<IActionResult> CreateBlog(BlogCreateDto dto)
         {
-            var blog = new Blog { Name = dto.Name, UserId = dto.UserId };
+            // Check if there is a user
+            var user = await _context.Users.Include(u => u.Blog).FirstOrDefaultAsync(u => u.Id == dto.UserId);
+            if (user == null) return NotFound("User not found");
+
+            // Enforce 1:1 constains, if user has a blog an error is shown
+            if (user.Blog != null) return BadRequest("This user already has a blog.");
+
+            var blog = new Blog
+            {
+                Name = dto.Name,
+                UserId = dto.UserId
+            };
 
             _context.Blogs.Add(blog);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetBlog", new { id = blog.Id }, 
-                new BlogReadDto (blog.Id, blog.Name, blog.UserId));
+            return Ok(new BlogReadDto(blog.Id, blog.Name, blog.UserId));
         }
 
-        // DELETE: api/Blogs/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteBlog(int id)
+        [HttpGet("{id}")]
+        public async Task<ActionResult<BlogReadDto>> GetBlog(int id)
         {
             var blog = await _context.Blogs.FindAsync(id);
-            if (blog == null)
-            {
-                return NotFound();
-            }
-
-            _context.Blogs.Remove(blog);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
+            if (blog == null) return NotFound();
+            return new BlogReadDto(blog.Id, blog.Name, blog.UserId);
         }
 
-        private bool BlogExists(int id)
+        [HttpGet]
+        public async Task<ActionResult<List<BlogReadDto>>> GetAllBlog(string? Name = null, string? Username = null, string OrderBy = "DESC",int pageNumber = 1, int pageSize = 10)
         {
-            return _context.Blogs.Any(e => e.Id == id);
+            
+
+            var blogs = await _context.Blogs.Include(b => b.User).ToListAsync();
+            if (Name != null)
+            {
+                blogs = blogs.Where(p => p.Name.Contains(Name)).ToList();
+            }
+            if (Username != null)
+            {
+                blogs = blogs.Where(p => p.User.Username.Contains(Username)).ToList();
+            }
+            
+
+
+            var blogDtos = blogs.Select(b => new BlogReadDtoList(
+                b.Id,
+                b.Name,
+                new UserReadDto(b.User.Id, b.User.Username, b.Name),
+                b.Posts.Select(p => new PostReadDto(
+                    p.Id,
+                    p.Title,
+                    p.Content,
+                    p.Tags.Select(t => new TagReadDto(t.Id, t.Name)).ToList()
+                )).ToList()
+            )).ToList();
+
+            if (OrderBy.ToUpper() == "ASC")
+            {
+                blogDtos = blogDtos.OrderBy(b => b.Id).ToList();
+            }
+
+            blogDtos = blogDtos.OrderByDescending(b => b.Id).ToList();
+
+            var pagedData = blogDtos.OrderBy(x => x.Id).Skip((pageNumber - 1) * pageSize).Take(pageSize).ToList();
+
+            if (blogDtos == null) return NotFound();
+            return Ok(blogDtos);
         }
     }
 }

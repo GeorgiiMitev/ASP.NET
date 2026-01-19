@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\dtos\\blogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,229 +51,307 @@
       "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\dtos\\tagdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\migrations\\20260112093044_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\migrations\\20260112093044_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\migrations\\20260112095854_createcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\migrations\\20260112095854_createcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|d:\\users\\fmi\\desktop\\socialmediaplatform\\socialmediaplatform\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABBCCA9-A8D2-4684-A756-ABD225478CDB}|SocialMediaPlatform\\SocialMediaPlatform.csproj|solutionrelative:socialmediaplatform\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 341,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\PostsController.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\PostsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:44:02.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-05T11:50:23.007Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BlogsController.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\BlogsController.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\BlogsController.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\BlogsController.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\BlogsController.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:43:37.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\UsersController.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\UsersController.cs",
               "RelativeToolTip": "SocialMediaPlatform\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAUwIgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:14:23.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\PostDto.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\PostDto.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\PostDto.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\PostDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:45:00.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\appsettings.json",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\appsettings.json",
-              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\appsettings.json",
-              "RelativeToolTip": "SocialMediaPlatform\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-05T12:28:00.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TagDto.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\TagDto.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\TagDto.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\TagDto.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\TagDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:46:10.016Z",
+              "WhenOpened": "2026-01-12T09:23:41.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Program.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Program.cs",
-              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Program.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBoAAAA4AAAAAAAAAA==",
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\BlogsController.cs*",
+              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\BlogsController.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T12:39:42.65Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\User.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\User.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\User.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:21:29.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Tag.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Tag.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:05:05.318Z",
+              "WhenOpened": "2026-01-12T09:25:14.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "TagsController.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\TagsController.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\TagsController.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\TagsController.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\TagsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\CommentsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:44:34.053Z",
+              "WhenOpened": "2026-01-12T09:54:41.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:23:53.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Controllers\\TagsController.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:26:01.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagDto.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\TagDto.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\TagDto.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\TagDto.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\TagDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:22:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\UserDto.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:18:59.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Program.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:28:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\appsettings.json",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\appsettings.json",
+              "RelativeToolTip": "SocialMediaPlatform\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-12T09:06:32.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Blog.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Blog.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:13:29.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BlogDto.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\BlogDto.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\BlogDto.cs",
               "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\BlogDto.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\BlogDto.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\BlogDto.cs",
               "RelativeToolTip": "SocialMediaPlatform\\Dtos\\BlogDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:44:52.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T09:19:10.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\UserDto.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\UserDto.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\UserDto.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\PostDto.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\PostDto.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\PostDto.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T14:18:25.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Blog.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Blog.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Blog.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Models\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T12:44:14.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T09:22:28.816Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Post.cs",
-              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Post.cs",
-              "ToolTip": "d:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Post.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Models\\Post.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "20260112093044_InitialCreate.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Migrations\\20260112093044_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Migrations\\20260112093044_InitialCreate.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Migrations\\20260112093044_InitialCreate.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Migrations\\20260112093044_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T13:48:03.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T15:44:30.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SocialMediaPlatform\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "SocialMediaPlatform\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAAoAAAAAAAAAA==",
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T11:50:23.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T09:30:48.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260112095854_CreateComments.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Migrations\\20260112095854_CreateComments.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Migrations\\20260112095854_CreateComments.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Migrations\\20260112095854_CreateComments.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Migrations\\20260112095854_CreateComments.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:44:31.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Post.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Post.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Models\\Post.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA3wBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:13:35.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Comment.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Comment.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Models\\Comment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:49:18.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\Tag.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\Tag.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:13:40.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Models\\User.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Models\\User.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:13:14.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\CommentDto.cs",
+              "RelativeDocumentMoniker": "SocialMediaPlatform\\Dtos\\CommentDto.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\SocialMediaPlatform\\SocialMediaPlatform\\Dtos\\CommentDto.cs",
+              "RelativeToolTip": "SocialMediaPlatform\\Dtos\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T09:53:15.838Z"
             }
           ]
         }

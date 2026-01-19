@@ -1,153 +1,81 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
-using System.Security.Claims;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using SocialMediaPlatform.Data;
 using SocialMediaPlatform.Dtos;
 using SocialMediaPlatform.Models;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 
 namespace SocialMediaPlatform.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
-    public class UsersController : ControllerBase
+    [Route("api/[controller]")]
+    public class UsersController(AppDbContext _context, IConfiguration _configuration) : ControllerBase
     {
-        private readonly AppDbContext _context;
-        private readonly IConfiguration _config;
-
-
-
-        public UsersController(AppDbContext context, IConfiguration config)
-        {
-            _context = context;
-            _config = config;
-        }
-
-        // GET: api/Users
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<User>>> GetUsers()
+        public async Task<ActionResult<IEnumerable<UserReadDto>>> GetUsers()
         {
-            return await _context.Users.ToListAsync();
+            //EXAMPLE
+            //Without Include: Blog will be null
+            //var user = await _context.Users.FirstOrDefaultAsync(u => u.Id == id);
+            // С Include: EF Core will make a Join and it will fill Blog
+            //var user = await _context.Users
+            //   .Include(u => u.Blog)
+            //    .FirstOrDefaultAsync(u => u.Id == id);
+
+            return await _context.Users
+                //.Include(u => u.Blog) -> here it is not required
+                .Select(u => new UserReadDto(u.Id, u.Username, u.Blog != null ? u.Blog.Name : null))
+                .ToListAsync();
         }
 
-        // GET: api/Users/5
-        [HttpGet("{id}")]
-        public async Task<ActionResult<UserReadDto>> GetUser(int id)
-        {
-            var user = await _context.Users.FindAsync(id);
-
-            if (user == null)
-            {
-                return NotFound();
-            }
-
-            return new UserReadDto(user.Id, user.Name, null);
-        }
-
-        // PUT: api/Users/5
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
-        public async Task<IActionResult> PutUser(int id, User user)
-        {
-            if (id != user.Id)
-            {
-                return BadRequest();
-            }
-
-            _context.Entry(user).State = EntityState.Modified;
-
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!UserExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
-        }
-
-        // POST: api/Users
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<User>> PostUser(UserCreateDto dto)
+        public async Task<ActionResult<UserReadDto>> CreateUser(UserCreateDto dto)
         {
-            var user = new User { Name = dto.Name, Password = dto.Password };
+            var user = new User { Username = dto.Username, Password = dto.Password };
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetUser", new { id = user.Id }, new UserReadDto(user.Id, user.Name, null));
+            return CreatedAtAction(nameof(GetUsers), new { id = user.Id },
+                new UserReadDto(user.Id, user.Username, null));
         }
 
-        // DELETE: api/Users/5
-        [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteUser(int id)
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] UserCreateDto login)
         {
-            var user = await _context.Users.FindAsync(id);
-            if (user == null)
+            //Irl the password is hashed and it checks the login user
+            if (login.Username == "admin" && login.Password == "password")
             {
-                return NotFound();
-            }
-
-            _context.Users.Remove(user);
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
-
-        private bool UserExists(int id)
-        {
-            return _context.Users.Any(e => e.Id == id);
-        }
-
-        [HttpPost("Login")]
-        public async Task<ActionResult<User>> Login([FromBody]UserCreateDto dto)
-        {
-            if(dto.Name == "admin" && dto.Password == "admin")
-            {
-                var token = GenerateJwt(dto.Name);
+                var token = GenerateJwtToken(login.Username);
                 return Ok(new { token });
             }
+
             return Unauthorized();
         }
 
-        private string GenerateJwt(string username)
+        private string GenerateJwtToken(string username)
         {
-            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]!));
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]!));
             var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
             var claims = new[]
             {
                 new Claim(ClaimTypes.Name, username),
+                //this logic can be extended by getting from the login user the Role and adding it as a claim
                 new Claim(ClaimTypes.Role, "Admin")
             };
 
             var token = new JwtSecurityToken(
-                issuer: _config["Jwt:Issuer"],
-                audience: _config["Jwt:Audience"],
+                issuer: _configuration["Jwt:Issuer"],
+                audience: _configuration["Jwt:Audience"],
                 claims: claims,
-                expires: DateTime.Now.AddMinutes(60),
-                signingCredentials: credentials
-                );
-            return new JwtSecurityTokenHandler().WriteToken(token);
+                expires: DateTime.Now.AddMinutes(120),
+                signingCredentials: credentials);
 
-            
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
     }
 }
